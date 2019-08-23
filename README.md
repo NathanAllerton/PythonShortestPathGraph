@@ -1,5 +1,5 @@
 # ShortestPathGraph
-Makes use of NetworkX library and pylab.
+Makes use of NetworkX library and PyLab.
 
 This creates a fixed graph and determines the shortest path determined by all of the node and edges.
 
