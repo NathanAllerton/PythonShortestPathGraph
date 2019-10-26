@@ -1,4 +1,4 @@
-# Shortest Path Graph
+# Shortest Path Graph in Python
 
 Makes use of NetworkX library and PyLab.
 
